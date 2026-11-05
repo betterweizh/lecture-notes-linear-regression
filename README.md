@@ -1,6 +1,6 @@
 # Study Notes on Linear Regression · 回归分析学习笔记
 
-[中文说明](README.zh-CN.md)
+**English** | [中文](README.zh-CN.md) | [Read online](https://betterweizh.github.io/lecture-notes-linear-regression/en/) | [在线阅读](https://betterweizh.github.io/lecture-notes-linear-regression/zh)
 
 Bilingual (English / Simplified Chinese) study notes on regression
 analysis, from the classical linear model to generalized linear models and

@@ -1,6 +1,6 @@
 # 回归分析学习笔记 · Study Notes on Linear Regression
 
-[English](README.md)
+[English](README.md) | **中文** | [Read online](https://betterweizh.github.io/lecture-notes-linear-regression/en/) | [在线阅读](https://betterweizh.github.io/lecture-notes-linear-regression/zh)
 
 中英双语的回归分析学习笔记，内容从经典线性模型延伸到广义线性模型和分位数回归。
 笔记用 Markdown（MyST）编写，通过 [Sphinx](https://www.sphinx-doc.org/) 和 [sphinx-book-theme](https://sphinx-book-theme.readthedocs.io/)
